@@ -1,6 +1,6 @@
 # Hi, I'm Evan.
 
-**AI Agent Engineer · Student at Hubei University**
+**AI Agent Engineer · Student at University**
 
 Building reliable agent runtimes and local-first AI tools — focusing on sandboxed execution, hooks and permissions, agent evals, and MCP integration.
 

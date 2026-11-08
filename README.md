@@ -12,7 +12,6 @@ Building reliable agent runtimes and local-first AI tools — focusing on sandbo
   <a href="https://docs.livekit.io/agents/" title="LiveKit Agents project website"><img src="./assets/contributions/livekit-agents-icon.svg" height="32" alt="LiveKit Agents project website"></a>&#8288;<a href="https://github.com/livekit/agents/pulls?q=is%3Apr+is%3Amerged+author%3AxiaoyuCR7" title="My merged PRs in LiveKit Agents"><img src="./assets/contributions/livekit-agents.svg" height="32" alt="LiveKit Agents merged PRs"></a>
 </p>
 
-[Browse merged PRs →](https://github.com/search?q=author%3AxiaoyuCR7+is%3Apr+is%3Amerged+-user%3AxiaoyuCR7&type=pullrequests)
 
 ### Selected projects
 

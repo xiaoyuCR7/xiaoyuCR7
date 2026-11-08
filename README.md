@@ -19,6 +19,11 @@ Building reliable agent runtimes and local-first AI tools — focusing on sandbo
 - **[general-novel-skill](https://github.com/xiaoyuCR7/general-novel-skill)** — Claude Code skill for long-form fiction: a 7-gate writing pipeline, 34 pluggable genres, and consistency across million-word novels. Zero dependencies.
 - **[Odessy](https://github.com/Trisoma/odessy)** — Voice-first, model-agnostic edge-AI agent. As its #2 contributor I built the sandbox isolation, hooks, permission tiers with audit, agent evals, third-party MCP servers, and agent-to-agent handoff.
 
+### How to reach me
+
+- 📫 Gmail: [lightraincr7@gmail.com](mailto:lightraincr7@gmail.com)
+- 📮 QQ Mail: [1178327328@qq.com](mailto:1178327328@qq.com)
+
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoyuCR7/xiaoyuCR7/output/github-contribution-grid-snake-dark.svg">
@@ -26,4 +31,4 @@ Building reliable agent runtimes and local-first AI tools — focusing on sandbo
   </picture>
 </p>
 
-<sub>📫 lightraincr7@gmail.com · [Icon credits](./assets/NOTICE.md)</sub>
+<sub>[Icon credits](./assets/NOTICE.md)</sub>

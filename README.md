@@ -17,7 +17,7 @@ Building reliable agent runtimes and local-first AI tools — focusing on sandbo
 
 - **[jmeter-ai-agent](https://github.com/xiaoyuCR7/jmeter-ai-agent)** — Local AI agent for Apache JMeter: turns test documents into requirements, runs the plan, and judges every run with evidence — verdicts, baseline diff, Prometheus. MCP built in.
 - **[general-novel-skill](https://github.com/xiaoyuCR7/general-novel-skill)** — Claude Code skill for long-form fiction: a 7-gate writing pipeline, 34 pluggable genres, and consistency across million-word novels. Zero dependencies.
-- **[Odessy](https://github.com/Trisoma/odessy)** — Voice-first, model-agnostic edge-AI agent. As its #2 contributor I built the sandbox isolation, hooks, permission tiers with audit, agent evals, third-party MCP servers, and agent-to-agent handoff.
+- **[Odessy](https://github.com/Trisoma/odessy)** — Voice-first, model-agnostic edge-AI agent. I built the sandbox isolation, hooks, permission tiers with audit, agent evals, third-party MCP servers, and agent-to-agent handoff.
 
 ### How to reach me
 

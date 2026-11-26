@@ -6,3 +6,4 @@ Project logos belong to their respective owners and are used only to identify th
 - DeerFlow: `https://deerflow.tech/images/deer.svg`
 - LiveKit: the [livekit](https://github.com/livekit) GitHub organization avatar
 - AgentScope: the official logo from [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) README
+- FastMCP: the official FastMCP logo from [fastmcp.wiki](https://fastmcp.wiki/), recolored white for the dark icon background
